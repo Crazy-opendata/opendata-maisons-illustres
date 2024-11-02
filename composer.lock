@@ -1,11 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "65de84d9891ec98557ae91c30cd85855",
-    "content-hash": "a4906feb6cf4f16d41f2588bb1442042",
+    "content-hash": "addb296da6cc7c7cf0ea9a64d71c35e0",
     "packages": [
         {
             "name": "crazy-opendata/core",
@@ -13,14 +12,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Crazy-opendata/core.git",
-                "reference": "cae7f9d4cb48539fa7e2fd33caf9d28e7b66091b"
+                "reference": "2a4faf7dfcd1370261bc20eec4b2cafc850441cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Crazy-opendata/core/zipball/cae7f9d4cb48539fa7e2fd33caf9d28e7b66091b",
-                "reference": "cae7f9d4cb48539fa7e2fd33caf9d28e7b66091b",
+                "url": "https://api.github.com/repos/Crazy-opendata/core/zipball/2a4faf7dfcd1370261bc20eec4b2cafc850441cc",
+                "reference": "2a4faf7dfcd1370261bc20eec4b2cafc850441cc",
                 "shasum": ""
             },
+            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -38,7 +38,7 @@
                 "source": "https://github.com/Crazy-opendata/core/tree/master",
                 "issues": "https://github.com/Crazy-opendata/core/issues"
             },
-            "time": "2016-07-27 21:38:58"
+            "time": "2017-07-18T08:01:49+00:00"
         }
     ],
     "packages-dev": [],
@@ -50,5 +50,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
 }

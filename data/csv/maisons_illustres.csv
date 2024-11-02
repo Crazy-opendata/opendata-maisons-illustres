@@ -1,0 +1,255 @@
+id;title;address;coordonnees
+1;"Maison natale de Max Jacob";"8 Rue du Parc, 29000 Quimper, France";47.99487,-4.103383
+2;"Maison Ernest Renan";"20 rue Ernest Renan, 22220 Tréguier, France";48.787931983523,-3.2290978732848
+3;"Maison et jardin de Georges Clemenceau";"Maison de Georges Clemenceau 76 rue Georges Clemenceau, 85520 Saint-Vincent-sur-Jard, France";46.406892,-1.546952
+4;"Château de Voltaire à Ferney";"Château de Voltaire Allée du Chateau, 01210 Ferney-Voltaire, France";46.258001,6.104293
+5;"Musée Gay-Lussac";"Musée Gay Lussac 1 Rue Jean Giraudoux, 87400 Saint-Léonard-de-Noblat, France";45.836565179718,1.4894702380527
+6;"Domaine de Nohant";"Maison et jardin de George Sand Domaine de George-Sand, 36400 Nohant-Vic, France";46.625012,1.974182
+7;"Domaine du château de Bussy-Rabutin";"Château de Bussy-Rabutin Rue du Château, 21150 Bussy-le-Grand, France";47.561635943312,4.523418277459
+8;"Villa Thuret et Jardin botanique";"Villa Thuret et Jardin botanique 90 chemin Raymond, 06160 Antibes, France";43.563112,7.12504
+9;"Château de Bois-Guilbert et Jardin des sculptures";"Château de Bois-Guilbert 1108 Route d’Heronchelles, 76750 Bois-Guilbert, France";49.537705,1.404462
+10;"Maison et jardins de Claude Monet - Giverny";"Maison et jardins de Claude Monet 84 rue Claude Monet, 27620 Giverny, France";49.075384,1.533702
+11;"Villa Arnaga - Musée Edmond Rostand";"Villa Arnaga - Musée Edmond Rostand 9 Avenue du Docteur Alexandre Camino, 64250 Cambo-les-Bains, France";43.36587,-1.413601
+12;"Maison natale du maréchal Foch, actuellement Musée Foch";"Maison natale du Maréchal Foch 2 Rue de la Victoire, 65000 Tarbes, France";43.234183,0.071204
+13;"Musée-Maison natale de Pierre Corneille";"Musée-Maison natale de Pierre Corneille 4 Rue de la Pie, 76000 Rouen, France";49.443051,1.086748
+14;"Maison des Champs – Musée départemental Pierre Corneille";"Musée Pierre Corneille 502 Rue Pierre Corneille, 76650 Petit-Couronne, France";49.389368,1.0216
+15;"Musée Georges Clemenceau";"Musée Clemenceau 8 Rue Benjamin Franklin, 75016 Paris, France";48.859206,2.285095
+16;"Ancien château d'Henri IV, actuellement musée";"Château-musée Henri IV 11 Rue Henri IV, 47600 Nérac, France";44.135201562173,0.34026040377896
+17;"Château de Buffon, actuellement musée Buffon";"Musée et Parc Buffon Rue du Parc Buffon, 21500 Montbard, France";47.625568337827,4.3367201289696
+18;"Musée du Désert";"Musée du Désert Le Mas Soubeyran, 30140 Mialet, France";44.095711748672,3.9572507396074
+19;"Maison de Frédéric Mistral, actuellement musée municipal";"Musée Frédéric Mistral 11 Avenue Lamartine, 13910 Maillane, France";43.831395729461,4.7825467357846
+20;"Musée Rouget de Lisle";"Maison Rouget de Lisle 24 Rue du Commerce, 39000 Lons-le-Saunier, France";46.675336,5.553719
+21;"Maison de Tante Léonie - Musée Marcel Proust";"Musée Marcel Proust 19 Rue de Chartres, 28120 Illiers-Combray, France";48.300414,1.246573
+22;"Ancienne tannerie, musée-maison natale de Pasteur";"Musée-maison natale de Pasteur 43 Rue Pasteur, 39100 Dole, France";47.092047,5.495573
+23;"Musée Yvonne Jean-Haffen";"Musée Yvonne Jean-Haffen 103 Rue du Quai, 22100 Dinan, France";48.461487,-2.0328
+24;"Maison natale de Descartes, actuellement Musée Descartes";"Musée Descartes 29 Rue Descartes, 37160 Descartes, France";46.972623,0.699988
+25;"Château-Musée du Cayla - Musée Eugénie et Maurice de Guérin";"Château-Musée du Cayla 321 Impasse du Musée, 81140 Andillac, France";44.009895417586,1.899713236569
+26;"Musée-Atelier d’Yvonne Guégan";"Musée-Atelier d’Yvonne Guégan 22 Rue Géo Lefèvre, 14000 Caen, France";49.173742,-0.387438
+27;"Papeteries Montgolfier-Canson";"Musée des Papeteries Canson et Montgolfier 700 Rue de Vidalon, 07430 Davézieux, France";45.254419,4.680151
+28;"Centre d'études et Musée Edmond Michelet";"Centre d'études et Musée Edmond Michelet 4 Rue Champanatier, 19100 Brive-la-Gaillarde, France";45.156198056104,1.5276333895312
+29;"Maison Martin Nadaud";"Maison Martin Nadaud Grandvaux, 23250 Soubrebost, France";45.98279,1.836929
+30;"Musée Gerty Archimède";"Musée Gerty Archimède 25 Rue Maurice Marie Claire, 97100 Basse-Terre, France";15.997001,-61.730131
+31;"Maison-musée James Norman Hall";"Maison-musée James Norman Hall PK 5 côté montagne, 98701 Arue, Fance";-17.525230863289,-149.52055459982
+32;"Musée Oberlin";"Musée Jean-Frédéric Oberlin 25 Montee Oberlin, 67130 Waldersbach, France";48.414759,7.214925
+33;"Ancienne chartreuse, actuellement musée de la Chartreuse et fondation Bugatti";"Musée de la Chartreuse et Fondation Bugatti 4 Cours des Chartreux, 67120 Molsheim, France";48.542812062395,7.4903410367101
+34;"Maison natale de Champollion, actuellement musée Champollion";"Musée Champollion - Les Écritures du Monde Place Champollion, 46100 Figeac, France";44.609696924905,2.0345078038271
+35;"Maison natale du Général de Gaulle, actuellement musée";"Maison natale Charles de Gaulle 9 Rue Princesse, 59800 Lille, France";50.645965063145,3.0586456763561
+36;"Villa Les Rhumbs - Musée Christian Dior";"Musée Christian Dior 1 Rue d'Estouteville, 50400 Granville, France";48.842239,-1.592766
+37;"Archisculpture et Musée Robert-Tatin";"Musée Robert Tatin rue de la Frénouse, 53230 Cossé-le-Vivien, France";47.933142230792,-0.89676054518053
+38;"Ancien hôtel de Bellegarde, actuellement musée d'Art et d'Histoire Romain Rolland";"Musée d'Art et d'Histoire Romain Rolland 13 Avenue de la République, 58500 Clamecy, France";47.460351,3.520686
+39;"Musée Charles-Louis Philippe";"Musée Charles-Louis Philippe 5 Rue Charles Louis Philippe, 03350 Cérilly, France";46.617913,2.823176
+40;"Château du Tertre";"Château du Tertre Le Tertre, 61130 Belforêt-en-Perche, France";48.388564664561,0.57926762545426
+41;"Musée-maison natale Gustave Courbet";"Pôle Courbet 1 Place Robert Fernier, 25290 Ornans, France";47.104874,6.147697
+42;"Pavillon de Cézanne";"Musée de l'atelier de Paul Cézanne 9 Avenue Francois Vidal, 13080 Aix-en-Provence, France";43.485301,5.414744
+43;"Maison natale de Victor Hugo";"140 grande-rue, 25000 Besançon, France";47.234738,6.029281
+44;"Logis de la Vergne, maison de Maria Casarès";"Maison Maria Casarès La Vergne, 16490 Alloue, France";46.018558,0.519641
+45;"Villa Alicius - Palais idéal du Facteur Cheval";"Le Facteur Cheval 3 Rue Étienne Vassy, 26390 Hauterives, France";45.25745,5.031564
+46;"Domaine du Pradel Institut Olivier de Serres";"460 Tarnondette, 07170 Mirabel, France";44.59484,4.495712
+47;"Maison du Docteur Gachet";"15 Rue du Général de Gaulle, 95430 Auvers-sur-Oise, France";49.074123,2.15876
+48;"Château de la Bastie d'Urfé";"1061 Route de la Bâtie d'Urfé, 42130 Saint-Étienne-le-Molard, France";45.727582,4.078586
+49;"Villa Oasis";"Avenue Yacoub El Mansour, 40000 Marrakech, Morocco";31.6395431,-8.0034677
+50;"Propriété de Maurice Denis, dite Le Prieuré";"Musée départemental Maurice Denis 2bis Rue Maurice Denis, 78100 Saint-Germain-en-Laye, France";48.892496,2.087541
+51;"Musée national Eugène Delacroix";"Musée Delacroix 6 Rue de Furstemberg, 75006 Paris, France";48.854445,2.335642
+52;"Maison natale de Pascal Paoli";"Musée Pascal Paoli - Museu Pasquale Paoli Hameau de Stretta, 20218 Morosaglia, France";42.4408338534,9.3090615019764
+53;"Musée de la maison de Pierre Loti";"Maison de Pierre Loti 141 Rue Pierre Loti, 17300 Rochefort, France";45.934295,-0.962724
+54;"Musée national Clemenceau et de Lattre de Tassigny - Maison natale de Clemenceau";"Musée national des Deux Victoires 18 Rue du temple, 85390 Mouilleron-Saint-Germain, France";46.675683,-0.850375
+55;"Musée Rodin ou Villa les Brillants";"19 Av. Auguste Rodin, 92190 Meudon, France";48.813955,2.252619
+56;"Maison de la sœur Anne-Marie Javouhey";"26 Rue Yvonne Patient, 97360 Mana, France";5.66965,-53.78527
+57;"Maison André Breton";"Mas de Fraysse 46330 Saint-Cirq-Lapopie";44.450845,1.67228
+58;"Maison La Souvenance";"6 Chem. des Agoutis, 97128 Goyave, France";16.140009,-61.584844
+59;"Château de Pontus de Tyard";"5 Montee de la Cure 71460 Bissy-sur-Fley";46.665,4.621
+60;"Tour Moncade";"Rue Moncade, 64300 Orthez, France";43.4907052,-0.7711225
+61;"Château de Monte-Cristo";"Chemin du Haut des Ormes, 78560 Le Port-Marly, France";48.8814647,2.1059687
+62;"Maison-Atelier Foujita";"9 Rte de Gif, 91190 Villiers-le-Bâcle, France";48.726254,2.123325
+63;"Château de Thorey -Lyautey";"Rue du Château, 54115 Thorey-Lyautey, France";48.443627,6.028474
+64;"Maison-École du Grand Meaulnes";"8 Rue Alain-Fournier, 18360 Épineuil-le-Fleuriel, France";46.558401,2.58351
+65;"Maison de Marie Noël";"1 Rue Marie Noël, 89000 Auxerre, France";47.7943955,3.5725206
+66;"«Samten Dzong» - Maison d'Alexandra David-Néel";"24 Chemin du Pigeonnier, 04000 Digne-les-Bains, France";44.0892896,6.2425317
+67;"Auberge de Verlaine";"22 Rue Chanteraine, 08310 Juniville, France";49.397074,4.381294
+68;"Maison de 
+ Julie Victoire Daubié";"24 La Manufacture, 88240 La Vôge-les-Bains, France";47.997427,6.233227
+69;"Château de Combourg";"38 Rue de Madrid, 35270 Combourg, France";48.411952,-1.729469
+70;"Maison Jean Monnet";"7 Chem. du Vieux Pressoir, 78490 Bazoches-sur-Guyonne, France";48.770677,1.852319
+71;"Maison natale de Pierre de Fermat";"1 Rue nationale, 82500 Beaumont-de-Lomagne, France";43.882937,0.991153
+72;"Maison natale de Charles Trenet";"27 Chem. du maritime, 11100 Narbonne, France";43.167402,3.037898
+73;"Maison des Mémoires - Maison Joë Bousquet";"1 Rue Marceau Perrutel, 11000 Carcassonne, France";43.206807,2.349411
+74;"Maison familiale de Pierre-Auguste Renoir";"1 Rue Gambetta, 10360 Essoyes, France";48.058099,4.537065
+75;"Maison des Lumières Denis Diderot";"1 Rue Pierre Durand, 52200 Langres, France";47.866417,5.331753
+76;"Château de Valençay";"9 Le Bas Méray, 36600 Valençay, France";47.150597,1.562113
+77;"Maison de La Devinière – Musée Rabelais";"1 Rue de l'Escadron B le Vigneau, 37500 Seuilly, France";47.133857,0.16437
+78;"Musée Balzac - Château de Saché";"3 Chem. de la Petitière, 37190 Saché, France";47.239476,0.532392
+79;"Demeure de Ronsard";"32 Rue du Chemin Neuf, 37520 La Riche, France";47.381191,0.637854
+80;"Musée Emile Guillaumin";"4 Rte de Couleuvre, 03160 Ygrande, France";46.556349,2.941437
+81;"Manoir des Sciences de Réaumur";"27 Cité du Beugnon, 85700 Réaumur, France";46.720949,-0.808734
+82;"Maison d’Émile Zola";"5 Rue de Breteuil, 78670 Medan, France";48.954743,1.99249
+83;"Harmas Jean-Henri Fabre";"22 Rte de Lagarde Pareol, 84830 Sérignan-du-Comtat, France";44.191001,4.844448
+84;"Villa Michel Simon";"38 Av. d' Alsace, 13600 La Ciotat, France";43.18922,5.625217
+85;"Villa Noailles";"4 place Pêcheurs, Rte des Vieux Salins, 83400 Hyères, France";43.115727,6.200547
+86;"Musée Escoffier de l’art culinaire";"12B All. du Ponson, 06270 Villeneuve-Loubet, France";43.639285,7.1068
+87;"Maison natale de Jean Giraudoux";"7 Rue du 19 Mars 1962, 87300 Bellac, France";46.120186,1.060953
+88;"Le Maine-Giraud Alfred de Vigny";"2 Chez Renou, 16250 Champagne-Vigny, France";45.504643,0.044409
+89;"Manoir d’Ango";"50 Rue Hamel Aubin, 76119 Varengeville-sur-Mer, France";49.907558,0.998489
+90;"Maison natale de François Mitterrand";"30 Rue du Bois Doucet, 16200 Jarnac, France";45.690183,-0.169285
+91;"Le Clos Lupin";"33 H Rue Guy de Maupassant, 76790 Étretat, France";49.704416,0.211459
+92;"Maison Lansyer";"15 Rue des Lézards, 37600 Loches, France";47.128306,0.985373
+93;"Maison natale de Jeanne d'Arc";"5 Rue de l'Église, 88630 Domrémy-la-Pucelle, France";48.442493,5.674793
+94;"Château de Cirey";"17 Village, 52110 Cirey-sur-Blaise, France";48.331544,4.939826
+95;"Le Scudo - Maison de Tino Rossi";"1 Rés Castelluccio, 20090 Ajaccio, France";41.933934,8.715408
+96;"Musée Maison Nicéphore Niepce";"19 B Rue du Pavillon, 71240 Saint-Loup-de-Varennes, France";46.728953,4.859433
+97;"La Maison natale de Colette";"415 Ldt la Bruyere, 89520 Saint-Sauveur-en-Puisaye, France";47.63384,3.2142
+98;"Musée Claude Bernard";"1012 D35, 69640 Saint-Julien, France";46.024173,4.664789
+99;"Maison d'Ampère";"374 Chem. du Cruy, 69250 Poleymieux-au-Mont-d'Or, France";45.857123,4.801015
+100;"Maison Saint Vincent de Paul";"12 Rue Voltaire, 01400 Châtillon-sur-Chalaronne, France";46.123734,4.959621
+101;"Maison Ravier";"8 Rés la Bichonnière, 38510 Morestel, France";45.680904,5.469625
+102;"Malagar Centre François Mauriac";"2 Malagarre S, 33490 Saint-Maixant, France";44.582003,-0.244233
+103;"Maison Caillebotte";"23 Rue de Concy, 91330 Yerres, France";48.710884,2.491344
+104;"Maison natale de Condorcet";"33 Rue Condorcet, 02240 Ribemont, France";49.796107,3.459898
+105;"Atelier-musée Jean Lurçat";"181 Rue de Labrunie, 46400 Saint-Laurent-les-Tours, France";44.870614,1.886789
+106;"Manoir des Deux Mondes";"4 Pl. Lafayette, 43230 Paulhaguet, France";45.206682,3.515432
+107;"Maisons Erik Satie";"42 Chem. Saint-Nicol, 14600 Honfleur, France";49.409689,0.22466
+108;"Maison de Louis Antoine Saint-Just";"9 Rue de la Chouette, 02300 Blérancourt, France";49.513879,3.147688
+109;"Maison familiale d'Henri Matisse";"23 Rue Albert Calmette, 02110 Bohain-en-Vermandois, France";49.990771,3.457532
+110;"Hôtel de Cabrières – Sabatier d'Espeyran";"8 Rue Anatole France, 34000 Montpellier, France";43.605445,3.876137
+111;"Maison de Paul Bourget";"1388 Av. de la Font des Horts, 83400 Hyères, France";43.091704,6.123035
+112;"Maison natale de Jean-François Millet";"rue de, La Fosse Yvon, 50440 La Hague, France";49.658268,-1.818829
+113;"Musée-maison natale du Maréchal Joffre";"21 Rue de Romani, 66600 Rivesaltes, France";42.779609,2.883106
+114;"Atelier Renoir";"1 Rue Gambetta, 10360 Essoyes, France";48.058099,4.537065
+115;"Petite Plaisance";"35 S Shore Rd, Northeast Harbor, ME 04662, USA";44.288924,-68.288513
+116;"Bureau d'Aimé Césaire - Espace Muséal Aimé Césaire";"47 Rue de la Republique, Fort-de-France 97200, Martinique";14.60657,-61.069921
+117;"Domaine de Rosmapamon, Maison d'Ernest Renan";"19 Rue Anatole France, 22700 Perros-Guirec, France";48.816666,-3.444877
+118;"Château de Bazoches";"5 Rte des Vieilles Vignes, 58190 Bazoches, France";47.372156,3.793262
+119;"Château de Germolles";"3 Rue des Géraniums, 71640 Mellecey, France";46.813784,4.748533
+120;"Maison des Ailleurs";"7 Quai Arthur Rimbaud, 08000 Charleville-Mézières, France";49.775683,4.721424
+121;"Maison natale d'Aristide Bergès et ancienne papeterie de Prat du Ritou";"Musée Aristide Bergès Prat du Ritou, 09190 Lorp-Sentaraille, France";43.010821957551,1.1248024613743
+122;"Maison des Jardies ou Maison de Gambetta";"Maison des Jardies 14 avenue Gambetta, 92310 Sèvres, France";48.827206,2.198652
+123;"Château des Ducs de la Trémoille";"Château des Ducs de la Trémoille Rue du Château, 79100 Thouars, France";46.971452589026,-0.21673611750828
+124;"Château et jardin potager de Miromesnil";"Château de Miromesnil Château de Miromesnil, 76550 Tourville-sur-Arques, France";49.859102,1.098173
+125;"Domaine de la Vallée aux loups";"Maison de Chateaubriand 87 rue Chateaubriand, 92290 Châtenay-Malabry, France";48.771837,2.266621
+126;"Château des Milandes";"Château et parc des Milandes Les Milandes, 24250 Castelnaud-la-Chapelle, France";44.823563,1.114254
+127;"Musée Bartholdi";"Musée Bartholdi 30 Rue des Marchands, 68000 Colmar, France";48.07679,7.357682
+128;"Maison familiale d'Henri Queuille";"Musée départemental de la Résistance Henri Queuille 21 Rue du Commerce, 19160 Neuvic, France";45.381904905461,2.27161662564
+129;"Institut Pasteur - Musée Pasteur";"Musée Pasteur 25 Rue du Docteur Roux, 75015 Paris, France";48.840346,2.310814
+130;"Musée Jean Racine";"Musée Jean Racine 2 Rue des Bouchers, 02460 La Ferté-Milon, France";49.175191828305,3.1268615889478
+131;"Musée-Bibliothèque François Pétrarque";"Musée-Bibliothèque François Pétrarque Rive gauche de la Sorgue, 84800 Fontaine-de-Vaucluse, France";43.921917130039,5.1288824540372
+132;"Maison-Musée Felix Eboué";"Maison-Musée Felix Eboué 1 Cité Jean Francois, 97300 Cayenne, France";4.926385,-52.316445
+133;"La Métairie – Musée Maillol";"Musée Maillol Route du Mas de la Roume, 66650 Banyuls-sur-Mer, France";42.461928051355,3.1067449447821
+134;"Maison de Jean-Jacques Rousseau et Maison des Commères";"Musée Jean-Jacques Rousseau 5 Rue Jean Jacques Rousseau, 95160 Montmorency, France";48.986892,2.320916
+135;"Maison natale de Berlioz";"Maison - musée Hector Berlioz 69 Rue de la République, 38260 La Côte-Saint-André, France";45.393343,5.261213
+136;"Château de Verteuil";"14 Rue Honoré de Balzac, 16510 Verteuil-sur-Charente, France";45.981651,0.225426
+137;"Musée - Maison natale de Murat";"Musée Murat Rue Joachim Murat, 46240 Cœur de Causse, France";44.646541,1.567336
+138;"Château de Sagonne";"1 D76, 18600 Sagonne, France";46.851974,2.833639
+139;"Domaine de la Forestière ou maison de Michelet, actuellement Musée Michelet";"Château de Vascoeuil - Maison Michelet 8 Rue Michelet, 27910 Vascœuil, France";49.44728,1.37649
+140;"Musée national Gustave Moreau";"14 Rue Catherine de la Rochefoucauld, 75009 Paris, France";48.877912,2.334416
+141;"Ancien hôtel Arnaud ou de Rohan-Guéménée, actuellement maison de Victor Hugo";"Maison de Victor Hugo 6 Place des Vosges, 75004 Paris, France";48.854821,2.366132
+142;"Château d'Eu, ancien domaine royal, actuellement musée Louis-Philippe";"Musée Louis Philippe Place du Champ de Mars, 76260 Eu, France";50.046522,1.423461
+143;"Hôtel-Dieu, actuellement musée Flaubert et d'histoire de la Médecine";"Musée Flaubert et d'histoire de la Médecine 51 Rue de Lecat, 76000 Rouen, France";49.445232,1.081736
+144;"Cabanon Le Corbusier";"16 Avenue le Corbusier, 06190 Roquebrune-Cap-Martin, France";43.760099,7.457108
+145;"Espace muséographique Sarah Bernhardt";"491 Les Poulains 56360 Sauzon";47.380684,-3.244172
+146;"Villa Souques-Pagès";"3 Quai Francois Foulon, 97110 Pointe-à-Pitre, France";16.23619,-61.537887
+147;"Maison Julien Gracq";"4 La Grassière (St Laurent-du-Mottay) 49410 Mauges-sur-Loire";47.346899,-0.934451
+148;"Musée départemental Stéphane Mallarmé";"4 Quai Stéphane Mallarmé, 77870 Vulaines-sur-Seine, France";48.4311564,2.7467931
+149;"La Boisserie – Maison de Charles de Gaulle";"Rue du Général de Gaulle, 52330 Colombey-les-Deux-Églises, France";48.2213051,4.8856479
+150;"Maison de Pierre Mac Orlan";"Promenade Pierre Mac Orlan, 77750 Saint-Cyr-sur-Morin, France";48.9097273,3.1752397
+151;"Maison Elsa Triolet – Louis Aragon - Moulin de Villeneuve";"14 Rue Jean Moulin, 78730 Saint-Arnoult-en-Yvelines, France";48.571462,1.933999
+152;"Musée Goethe";"Gare de Sessenheim, 67770 Sessenheim, France";48.796344,7.9891695
+153;"Appartement d'Auguste Comte";"44 Rue Francisque Gay, 75006 Paris, France";48.85287,2.343452
+154;"Abbaye-école de Sorèze";"3 Rue Jean Croux, 81540 Sorèze, France";43.453041,2.049147
+155;"Atelier-musée de Rosa Bonheur";"47 Rue de Moret, 77810 Thomery, France";48.402376,2.781486
+156;"Château de Fénelon";"82 Chem. du Four Banal, 24370 Sainte-Mondane, France";44.831184,1.34205
+157;"Château des Ormes";"2 Rue du Lavoir, 86220 Les Ormes, France";46.963622,0.62547
+158;"Maison Raymond Poincaré";"11 Chem. de Laveau, 55300 Sampigny, France";48.82467,5.508022
+159;"Maison Max Ernst et Dorothea Tanning, Le pin perdu";"6 Rue de la Rende, 37420 Huismes, France";47.230711,0.250196
+160;"Maison Louis Guilloux";"11 Rue Henri Wallon, 22000 Saint-Brieuc, France";48.513587,-2.742654
+161;"Maison de Nostradamus";"49 Rue Anatole France, 13300 Salon-de-Provence, France";43.639996,5.051074
+162;"Maison natale de Gaston Doumergue";"52 Pl. Gaston Doumergue, 30670 Aigues-Vives, France";43.740005,4.178848
+163;"Château Observatoire d'Abbadia";"40 Rue Atchoenea, 64700 Hendaye, France";43.360927,-1.759387
+164;"Château de Guez de Balzac";"36 Rte de l'Âge, 16430 Balzac, France";45.715729,0.136023
+165;"Musée Victor Hugo - Maison Vacquerie";"10 Quai Victor Hugo, 76490 Rives-en-Seine, France";49.509152,0.672047
+166;"Pavillon Flaubert";"21 Quai Gustave Flaubert, 76380 Canteleu, France";49.432852,1.028056
+167;"Maison Zervos";"37 Rue Saint-Etienne, 89450 Vézelay, France";47.464169,3.743668
+168;"Villa Lumière - Institut Lumière";"25 Rue du Premier Film, 69008 Lyon, France";45.744977,4.870474
+169;"Château de Vaux-sur-Seine (""Castello Marochetti"")";"161 Rue du Général de Gaulle, 78740 Vaux-sur-Seine, France";49.006452,1.961502
+170;"Fondation Camargo";"14 Av. de l'Amiral Ganteaume, 13260 Cassis, France";43.214019,5.532951
+171;"Château Michel de Montaigne";"31 Montaigne E, 24230 Saint-Michel-de-Montaigne, France";44.878153,0.03026
+172;"Musée-Mémorial Lu Xun";"China, Zhe Jiang Sheng, Shao Xing Shi, Yue Cheng Qu, Luxun Middle Rd, 241: 312002";29.992075,120.586675
+173;"Maison Forestière Wilfred Owen";"11 Rue de la Grande Prairie, 59360 Ors, France";50.100444,3.638786
+174;"Domaine de Bonrepos-Riquet";"1 Pl. Paul Riquet, 31590 Bonrepos-Riquet, France";43.676542,1.623989
+175;"Château de la Brède";"16 Av. Charles de Gaulle, 33650 La Brède, France";44.679966,-0.52721
+176;"Maison Jean Cocteau";"7 Rue du Rousset, 91490 Milly-la-Forêt, France";48.402677,2.457828
+177;"Maison Pierre Bayle";"327 Las Planos, 09130 Carla-Bayle, France";43.155589,1.379112
+178;"Château de Malromé";"1 Aux Moulins, 33490 Saint-André-du-Bois, France";44.605275,-0.18803
+179;"Centre Abbé Pierre Emmaüs";"239 Rte de Bosc le Hard, 76690 Esteville, France";49.610461,1.218711
+180;"Maison Léon Blum";"des Metz, 19 Chem. de la Mare, 78350 Jouy-en-Josas, France";48.77099,2.167839
+181;"Château de Médan";"5 Rue de Breteuil, 78670 Medan, France";48.954743,1.99249
+182;"Maison natale de Dominique Jean-Larrey";"325 Lesponne, 65710 Beaudean, France";43.008483,0.140033
+183;"Musée Barbey d'Aurevilly";"4 Rte de la Malbreche, 50390 Saint-Sauveur-le-Vicomte, France";49.382654,-1.54003
+184;"Villa départementale Marguerite Yourcenar";"617 Rue de la Blanchisserie, 59270 Saint-Jans-Cappel, France";50.768695,2.726427
+185;"Degas House Museum";"7 Esp. de l'Université, 45100 Orléans, France";47.840437,1.935716
+186;"Parc et demeure Edouard André";"95 Rue d'Amboise, 37150 La Croix-en-Touraine, France";47.349407,0.989834
+187;"Maison de Louis Pasteur";"16 Rue Morel, 39600 Arbois, France";46.908221,5.773734
+188;"Maison natale de Claude Debussy";"7 Rue Girard, 78112 Saint-Germain-en-Laye, France";48.885356,2.062429
+189;"Maison natale Pierre de Ronsard";"351 La Possonnière, 41800 Vallée-de-Ronsard, France";47.747017,0.692279
+190;"Musée Renaudot";"Musée Renaudot Rue du Jeu de Paume, 86200 Loudun, France";47.009081708381,0.082333534512117
+191;"Musée Renoir";"Musée Renoir Chemin des Collettes, 06800 Cagnes-sur-Mer, France";43.667842992193,7.1570484079671
+192;"Maison-Musée départemental Alexandre Franconie";"Maison-musée Franconie 1 Av du General Charles de Gaulle, 97300 Cayenne, France";4.9382556166591,-52.334409045425
+193;"Maison de Jean Giono, dénommée Le Paraïs";"Le Paraïs, maison de Jean Giono Impasse du Parais, 04100 Manosque, France";43.834011,5.788889
+194;"Maison de Jean de la Fontaine";"Musée Jean de la Fontaine Place Jean de la Fontaine, 02400 Château-Thierry, France";49.044587,3.403049
+195;"Ancien presbytère du Curé d'Ars";"Presbytère du Curé d'Ars 40 Allee Abbe Nodet, 01480 Ars-sur-Formans, France";45.992881,4.82365
+196;"Pavillon de l'Arsenal, actuellement bibliothèque de l'Arsenal";"Bibliothèque de l'Arsenal 1 Rue de Sully, 75004 Paris, France";48.85034,2.363621
+197;"Château de Denainvilliers";"1 Rue Duhamel du Monceau, 45300 Dadonville, France";48.151076,2.239838
+198;"Musée Zervos - Maison Romain Rolland";"14 Rue Saint-etienne, 89450 Vézelay, France";47.463731,3.743124
+199;"Domaine de La Chesnaye";"Rue de la Chesnaye, 36150 Guilly, France";47.079827,1.72725
+200;"Appartement-atelier Le Corbusier - Immeuble Molitor";"24 Rue Nungesser et Coli, 75016 Paris, France";48.843364,2.251451
+201;"Maison Chrestia, dite de ""Francis Jammes""";"7 Avenue Francis Jammes, 64300 Orthez, France";43.4855308,-0.7650723
+202;"Maison-Musée Raymond Devos";"10 Rue de Paris, 78470 Saint-Rémy-lès-Chevreuse, France";48.7063155,2.0759727
+203;"Maison de Robert Schuman";"4 Rue de l'Esplanade, 57160 Scy-Chazelles, France";49.113623,6.116618
+204;"Le Bayle-Vert";"51 Chem. des Areniers, 13450 Grans, France";43.612114,5.06276
+205;"Maison de la photographie des Landes";"Impasse le Monge, 40210 Labouheyre, France";44.2164255,-0.9235816
+206;"Château d'Espeyran";"60 Ancien Chemin d Uchaud, 30800 Saint-Gilles, France";43.698477,4.412206
+207;"Maison-atelier Emile Boggio";"15 Rue du Général de Gaulle, 95430 Auvers-sur-Oise, France";49.074123,2.15876
+208;"Maison du Maréchal Jean Lannes";"21 Av. ville de Saint-Louis, 32700 Lectoure, France";43.931528,0.622384
+209;"Maison Jules Roy";"2 La Goulote, 89450 Vézelay, France";47.464386,3.717154
+210;"Maison et jardin du peintre Ernest Hébert";"Musée Hébert - d'Uckermann Chemin Hebert, 38700 La Tronche, France";45.205515,5.751318
+211;"Château de Hautefort";"Jardins et parc du château de Hautefort Rue Marie de Hautefort, 24390 Hautefort, France";45.259902441423,1.1449703053915
+212;"Château de Sully-sur-Loire";"Château de Sully Chemin de la Salle Verte, 45600 Sully-sur-Loire, France";47.767651075681,2.3756916764603
+213;"Musée Curie";"Musée Curie 1 Rue Pierre et Marie Curie, 75005 Paris, France";48.844315,2.344972
+214;"Maison natale de Louis Braille";"Musée Louis Braille 13 Rue Louis Braille, 77700 Coupvray, France";48.89452,2.791914
+215;"Villa Majorelle";"1 Rue Louis Majorelle, 54000 Nancy, France";48.685484,6.163871
+216;"Appartement Gagnon dit ""maison du docteur Gagnon"", actuellement musée Stendhal";"Musée Stendhal 20 Grand Rue, 38000 Grenoble, France";45.191481,5.728083
+217;"Musée national de la maison Bonaparte";"8 Rue Saint-Charles, 20000 Ajaccio, France";41.917798,8.738121
+218;"Maison des Charmettes";"Musée des Charmettes 890 Chemin des charmettes, 73000 Chambéry, France";45.553211,5.929839
+219;"Habitation Clément";"32 Rue Delgres, 97240 Le François, France";14.614591,-60.901225
+220;"Habitation-sucrerie Clairefontaine";"14 Chem. Jude Plessis, 97123 Baillif, France";16.035244,-61.738576
+221;"Maison Albert Schweitzer";"Maison Albert Schweitzer 8 Rue de Munster, 68140 Gunsbach, France";48.04623,7.172652
+222;"Maison de Maurice Ravel, actuellement musée";"Maison-Musée Maurice Ravel 5 Rue Maurice Ravel, 78490 Montfort-l'Amaury, France";48.7761924,1.8054618
+223;"Hauteville House, Maison d'exil de Victor Hugo";"38 Hauteville, 99132 Guernesey, Royaume-Uni";49.451352,-2.5376453
+224;"Pavillon de Balzac, actuellement musée";"Maison de Balzac 47 Rue Raynouard, 75016 Paris, France";48.855356,2.280847
+225;"Domaine du château de Talcy";"Château de Talcy 18 rue du Château, 41370 Talcy, France";47.769313,1.444645
+226;"Maison natale de Paul Claudel";"Maison Camille et Paul Claudel 42 Place Paul Claudel, 02130 Villeneuve-sur-Fère, France";49.177645,3.473667
+227;"Maison du Docteur Dugoujon";"Place Jean Gouailhardou, 69300 Caluire-et-Cuire, France";45.7993006,4.8456703
+228;"Les Maisonnettes";"18 Rue du Bocage, 78440 Gargenville, France";48.98556,1.814075
+229;"Maison de Jules Verne";"2 Rue Charles Dubois, 80000 Amiens, France";49.887743,2.301895
+230;"Maison-atelier de Daubigny";"61 Rue Daubigny, 95430 Auvers-sur-Oise, France";49.073035,2.169911
+231;"Maison de Jacques Copeau et son jardin";"Maison Jacques Copeau 4 Rue Jacques Copeau, 21420 Pernand-Vergelesses, France";47.079173,4.851154
+232;"Villa Seurat, dite maison Jean Lurçat, actuellement maison Orloff";"Atelier-musée Chana Orloff 7 Villa Seurat, 75014 Paris, France";48.826161,2.332619
+233;"Musée Jean Aicard - Paulin Bertrand";"Musée Jean Aicard - Paulin Bertrand 705 Avenue du 8 Mai 1945, 83130 La Garde, France";43.114675,6.004393
+234;"Hôtel Gustave Fayet - Musée des Beaux-Arts";"Musée Fayet 9 Rue du Capus, 34500 Béziers, France";43.342650890138,3.2111801425146
+235;"Musée-hôtel Le Vergeur – maison Hugues Krafft";"Maison Hughes Krafft 36 place du Forum, 51100 Reims, France";49.257018,4.034054
+236;"Maison natale de Paul Verlaine";"Maison de Paul Verlaine 2 Rue Haute Pierre, 57000 Metz, France";49.1172607,6.1716839
+237;"Musée des Émaux et de la Mosaïque de Briare";"Maison de Jean-Félix Bapterosses 4 Rue des Vergers, 45250 Briare, France";47.642377,2.733211
+238;"Bibliothèque Marmottan";"7 Place Denfert-Rochereau, 92100 Boulogne-Billancourt, France";48.84326,2.246389
+239;"Musée Charles Friry";"12 Rue du Général Humbert, 88200 Remiremont, France";48.015174,6.590031
+240;"Maison de Francis Poulenc, dite Le Grand Coteau";"Le Grand Coteau 269 Chemin Francis Poulenc, 37210 Noizay, France";47.42431,0.90551
+241;"Villa Félix Charpentier";"Villa Charpentier 61 Rue Saint-Lubin, 28480 Chassant, France";48.295209,1.057522
+242;"Maison de famille d’Hervé Bazin";"748, route du Patys - Marans, 49500 Segré-en-Anjou Bleu, France";47.6351214,-0.8482834
+243;"Maison Henri Dutilleux – Geneviève Joy";"10 Rue du Confluent, 37500 Candes-Saint-Martin, France";47.211953,0.074361
+244;"Espace botanique Hippolyte Coste";"Deveze de la Fage, 12250 Saint-Jean-et-Saint-Paul, France";43.918555,3.093226
+245;"Maison Edouard Glissant";"La Chery 97223 Le Diamant, France";14.4799,-61.012029
+246;"Château de Saint-Point – Lamartine";"316 route du château Lamartine, 71520 Saint-Point, France";46.343737,4.615155
+247;"Datcha Ivan Tourguéniev";"16 Rue Yvan Tourgueneff, 78380 Bougival, France";48.864496,2.147401
+248;"Musée Yves Saint Laurent";"5 Av. Marceau, 75116 Paris, France";48.865621,2.29952
+249;"Musée atelier Guillaume Dubufe - Musée Jean-Jacques Henner";"Musée national Jean-Jacques Henner 43 Avenue de Villiers, 75017 Paris, France";48.883041,2.307711
+250;"Maison d'Edouard Salin";"Château de Montaigu 167 Rue Lucien Galtier, 54410 Laneuveville-devant-Nancy, France";48.6656659,6.2100382
+251;"Maison Jeanne d'Albret";"Jeanne d'Albret 37 Rue Bourg-Vieux, 64300 Orthez, France";43.4884344,-0.775028
+252;"Le Domaine d'Orvès - maison de Pierre Deval";"Le Domaine d'Orvès 71 avenue de la Libération, 83160 La Valette-du-Var, France";43.143015,5.989277
+253;"Villa Antonine";"Villa Antonine 74 Rue Jean Valette, 34500 Béziers, France";43.341129,3.227775
